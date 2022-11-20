@@ -1,4 +1,4 @@
----
+https://github.com/Pokping/loy-.git---
 name: Oppo
 manufacturer:
   - oppo
